@@ -22,11 +22,14 @@
 - fluxo do ZapLink verificado com geração de URL e registro no histórico;
 - varredura do código sem credenciais ou chaves encontradas.
 
-### Bloqueios
+### Publicação
 
-- GitHub CLI identificou a conta `zps-commits`, porém o token estava inválido. Código não publicado.
-- nenhuma integração autenticada com Vercel foi detectada; deploy não realizado.
+- GitHub: https://github.com/zps-commits/30-days-60-solutions
+- Fixa Casa: https://fixa-casa-dia-01.vercel.app
+- ZapLink: https://zaplink-dia-01.vercel.app
+- as duas URLs públicas foram abertas no navegador após o deploy, com conteúdo correto e sem erros no console.
+- o pacote `prompts-60-projetos.zip` foi organizado em uma área local de referência, fora do repositório público, para consulta gradual nos próximos dias.
 
 ### Próximo passo
 
-Autenticar o GitHub, confirmar/criar o repositório `30-days-60-solutions`, publicar a branch `main` sem force push e, quando solicitado, iniciar o Dia 02 a partir de `STATUS.md`.
+Quando solicitado, iniciar o Dia 02 a partir de `STATUS.md` e consultar apenas os prompts correspondentes no pacote de referência.

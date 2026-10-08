@@ -8,8 +8,8 @@ Os projetos são demonstrações e exercícios de desenvolvimento. Marcas, pesso
 
 | Solução | Problema que resolve | Tecnologia | Estado |
 | --- | --- | --- | --- |
-| [Landing Fixa Casa](day-01/landing-fixa-casa/) | Ajuda um prestador fictício de pequenos reparos a explicar serviços e iniciar um contato organizado | React, TypeScript, Vite, CSS | Concluído |
-| [ZapLink](day-01/whatsapp-link-generator/) | Cria links de WhatsApp com número e mensagem validados | React, TypeScript, Vite, localStorage | Concluído |
+| [Landing Fixa Casa](day-01/landing-fixa-casa/) · [abrir](https://fixa-casa-dia-01.vercel.app) | Ajuda um prestador fictício de pequenos reparos a explicar serviços e iniciar um contato organizado | React, TypeScript, Vite, CSS | Concluído |
+| [ZapLink](day-01/whatsapp-link-generator/) · [abrir](https://zaplink-dia-01.vercel.app) | Cria links de WhatsApp com número e mensagem validados | React, TypeScript, Vite, localStorage | Concluído |
 
 ## Cronograma
 

@@ -9,5 +9,5 @@
 - **Privacidade:** o ZapLink não envia os dados a servidor. Os três últimos links ficam somente no `localStorage` do navegador e podem ser apagados na interface.
 - **Demonstração:** a Fixa Casa é uma marca fictícia e usa o número reservado `+55 81 99999-9999` apenas para demonstrar a montagem da URL. Não há promessa de atendimento.
 - **Fontes:** as interfaces carregam fontes do Google Fonts; em ambiente sem rede, os fallbacks locais mantêm o conteúdo legível.
-- **Publicação:** a conta GitHub detectada foi `zps-commits`, mas a credencial disponível estava inválida. Nenhuma publicação foi tentada até que a conta seja autenticada novamente.
-- **Deploy:** não foi detectada integração autenticada com Vercel. A entrega do Dia 01 permanece local.
+- **Publicação:** repositório público criado na conta confirmada `zps-commits`: https://github.com/zps-commits/30-days-60-solutions.
+- **Deploy:** cada aplicação foi conectada ao mesmo repositório como um projeto Vercel independente, com sua própria pasta raiz e URL pública. Essa separação mantém comandos, builds e demonstrações independentes.
