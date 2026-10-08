@@ -13,7 +13,7 @@ Os projetos são demonstrações e exercícios de desenvolvimento. Marcas, pesso
 
 ## Cronograma
 
-O plano completo e o andamento diário estão em [STATUS.md](STATUS.md). Decisões técnicas e limitações ficam em [DECISIONS.md](DECISIONS.md).
+O plano completo e o andamento diário estão em [STATUS.md](STATUS.md). Decisões técnicas e limitações ficam em [DECISIONS.md](DECISIONS.md), e as evidências de cada entrega em [SESSION.md](SESSION.md).
 
 ## Como executar
 
