@@ -28,6 +28,10 @@ npm run build
 - CSS responsivo com tokens, estados de foco e redução de movimento;
 - Vitest para a lógica de composição do contato.
 
+## Direção visual e assets
+
+A versão 2 adota uma direção fotográfica quente, com tipografia editorial, profundidade, cartões de serviço assimétricos e transições cromáticas entre as seções. A imagem do hero foi gerada especificamente para este projeto com IA e comprimida para JPEG antes da publicação; ela é um asset conceitual da marca fictícia, não uma fotografia de cliente ou serviço real.
+
 ## Limitações
 
 - não há backend, agenda ou envio de orçamento;

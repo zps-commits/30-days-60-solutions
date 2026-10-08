@@ -33,3 +33,12 @@
 ### Próximo passo
 
 Quando solicitado, iniciar o Dia 02 a partir de `STATUS.md` e consultar apenas os prompts correspondentes no pacote de referência.
+
+## 8 de outubro de 2026 — revisão visual do Dia 01
+
+- direção visual refeita após feedback do usuário sobre excesso de minimalismo, rigidez e paleta simples;
+- Fixa Casa recebeu fotografia integrada, paleta terrosa, tipografia editorial, profundidade e composições assimétricas;
+- ZapLink recebeu identidade fashion-tech escura, mídia 3D integrada, formulário translúcido e nova hierarquia;
+- dois assets foram gerados especificamente para as aplicações, sem marcas ou texto, e comprimidos para aproximadamente 380 KB no total;
+- desktop e mobile foram inspecionados no navegador, ambos sem overflow horizontal;
+- lint, 6 testes e builds de produção aprovados.

@@ -29,6 +29,10 @@ npm run build
 - Clipboard API para cópia;
 - Vitest para validação e geração das URLs.
 
+## Direção visual e assets
+
+A versão 2 usa uma composição escura de moda e tecnologia, vidro translúcido, coral e lavanda para representar uma mensagem atravessando um link. O visual do hero foi gerado especificamente para este projeto com IA e comprimido para JPEG; não utiliza marca, símbolo ou interface do WhatsApp.
+
 ## Privacidade e limitações
 
 - nenhum dado é enviado a um servidor;
